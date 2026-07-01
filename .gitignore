@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino build files
+*.hex
+*.elf
+
+# Temporary files
+*.tmp
+*.bak
