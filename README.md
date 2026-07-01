@@ -76,7 +76,7 @@ The project may include components such as:
 ```text
 self-driving-car-arduino/
 ├── src/        # Arduino source code
-├── diagrams/   # Chasis design
+├── designs/   # Chasis design
 ├── media/      # Prototype photos or demo videos
 ├── .gitignore
 └── README.md
